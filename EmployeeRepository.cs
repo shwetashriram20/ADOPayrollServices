@@ -26,6 +26,7 @@ namespace ADO_Employee_Payroll.ADO_Employee_Payroll
             //Check if swlDataReader has Rows
             if (sqlDataReader.HasRows)
             {
+               
                 //Read each row
                 while (sqlDataReader.Read())
                 {
