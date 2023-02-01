@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Data.SqlClient;
@@ -74,7 +74,7 @@ namespace ADO_Employee_Payroll.ADO_Employee_Payroll
             sqlConnection.Close();
             GetSqlData();
             return result;
-
+            
         }
         public int UpdateSalary(EmployeeDataManager employeeDataManager)
         {
