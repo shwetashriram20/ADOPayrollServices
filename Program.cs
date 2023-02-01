@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using ADO_Employee_Payroll.ADO_Employee_Payroll;
 
 namespace ADO_Employee_Payroll
